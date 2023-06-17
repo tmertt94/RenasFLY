@@ -43,3 +43,21 @@ Scenario: Sign-Up with UI
           When User send the request
           Then User verifies status code as 201
 
+          @smoke4
+          Scenario: Login with API
+            Given User add request payload
+            When User send the request
+            Then User verifies status code as 201
+            And User add request payload for Login
+            Then User sends the request for Login
+            Then User verifies status code for Login as 200
+
+
+            @smoke5
+            Scenario: SignUp with API and login with UI
+              Given User add request payload
+              When User send the request
+              Then User verifies status code as 201
+              And User login with UI by given credentials from API
+
+

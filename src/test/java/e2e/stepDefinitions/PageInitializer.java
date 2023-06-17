@@ -1,9 +1,6 @@
 package e2e.stepDefinitions;
 
-import e2e.pages.AccountPage;
-import e2e.pages.DataBase;
-import e2e.pages.HomePage;
-import e2e.pages.LoginPage;
+import e2e.pages.*;
 
 public class PageInitializer {
 
@@ -12,6 +9,7 @@ public class PageInitializer {
     public static HomePage homePage;
     public static LoginPage loginPage;
     public static DataBase dataBase;
+    public static APIWorkFlow apiWorkFlow;
 
 
 
@@ -20,5 +18,6 @@ public class PageInitializer {
         homePage = new HomePage();
         loginPage = new LoginPage();
         dataBase = new DataBase();
+        apiWorkFlow = new APIWorkFlow();
     }
 }
