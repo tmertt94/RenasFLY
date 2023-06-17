@@ -9,15 +9,12 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features/",
         glue = "e2e/stepDefinitions",
-        tags = "@smoke2",
-        dryRun = false,
+        tags = "@smoke3",
+        dryRun = true,
         plugin = {
-                "pretty",
-                "html:target/default-cucumber-reports.html",
-                "json:target/cucumber.json",
-                "rerun:target/failed.text"
+                "pretty"
         }
 )
 
-public class RunnerClass {
+public class APIRunner {
 }

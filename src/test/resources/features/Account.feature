@@ -36,3 +36,10 @@ Scenario: Sign-Up with UI
         And User verify success message as "User Created"
         Then Verify that user is created in Database
 
+
+        @smoke3
+        Scenario: SignUp with API
+          Given User add request payload
+          When User send the request
+          Then User verifies status code as 201
+
