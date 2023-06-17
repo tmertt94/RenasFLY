@@ -52,6 +52,10 @@ public class AccountPage extends CommonMethods {
     private WebElement wrongPassword;
     @FindBy(css = ".alert.alert-success")
     private WebElement successAlertMessage;
+    @FindBy(partialLinkText = "Login")
+    private WebElement loginButtonOnHeader;
+    @FindBy(css = ".btn.btn-primary.mt-2")
+    private WebElement loginButtonOnBottom;
 
 
     public void setSignUpButton() {
@@ -107,6 +111,21 @@ public class AccountPage extends CommonMethods {
             signUpOnBottom.click();
         }
         return successAlertMessage.getText();
+    }
+
+    public void setLoginButtonOnHeader() {
+        loginButtonOnHeader.click();
+    }
+    public void setValidCredentials() {
+        email.sendKeys(userEmail);
+        userPassword.sendKeys(validPassword);
+    }
+
+    public void setLoginButtonOnBottom() {
+        loginButtonOnBottom.click();
+    }
+    public void verifyAccountName() {
+        Assert.assertEquals(userName,loginPage.setAccountName());
     }
 
 
