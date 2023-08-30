@@ -1,6 +1,6 @@
 package e2e.utils;
 
-import e2e.stepDefinitions.PageInitializer;
+import e2e.pages.Taylan_1.PageInitializer;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

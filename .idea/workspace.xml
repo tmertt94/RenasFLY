@@ -5,19 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Login with API 2023-06-22-05-27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Login with API 2023-06-22-07-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with API 2023-06-22-07-52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/SignUp with API 2023-06-21-52-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/SignUp with API and login with UI 2023-06-22-15-45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_Login_API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/APIPayloadConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-08-17-40-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-08-17-40-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/APIWorkFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/MyProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/PageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/MyProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/Signup_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/Taylan_1.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/APIWorkFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/APIWorkFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/APIRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/APIRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp_API.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/PageInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Account.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Account.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/APIWorkFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/AccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/DataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/APIRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_Login_API.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp_API.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp_DataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/PageInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/DBUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Account.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +80,11 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="e2e.pages.Taylan_1" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.APIRunner">
     <configuration name="Scenario: Sign-Up with UI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />

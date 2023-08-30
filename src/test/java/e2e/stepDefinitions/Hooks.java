@@ -1,5 +1,6 @@
 package e2e.stepDefinitions;
 
+import e2e.pages.Taylan_1.PageInitializer;
 import e2e.utils.CommonMethods;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -22,6 +23,8 @@ public class Hooks extends CommonMethods {
             pic = takeScreenShots("passed/" + scenario.getName());
         }
         scenario.attach(pic,"image/png", scenario.getName());
+
+        PageInitializer.myProfilePage.logout();
         closeBrowser();
     }
 }

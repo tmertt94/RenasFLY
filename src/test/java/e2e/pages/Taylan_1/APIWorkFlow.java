@@ -1,4 +1,4 @@
-package e2e.pages;
+package e2e.pages.Taylan_1;
 
 import com.github.javafaker.Faker;
 import e2e.utils.APIConstants;
@@ -11,12 +11,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import static io.restassured.RestAssured.given;
 
 public class APIWorkFlow extends CommonMethods {
 
     Faker faker = new Faker();
-
+    public static Map<String,String> userInformations = new HashMap<>();
     String userName="";
     String userLastName="";
     String userEmail="";
@@ -24,61 +27,43 @@ public class APIWorkFlow extends CommonMethods {
     String password="Password1";
     String userGender="";
     String userImage="";
-
     public APIWorkFlow() {
         PageFactory.initElements(driver,this);
     }
-    @FindBy(css = "input[name='userEmail']")
-    private WebElement email;
-    @FindBy(css = "input[name='userPassword']")
-    private WebElement userPassword;
 
     RequestSpecification requestSpecification;
     Response response;
 
 
-    public void setAPIBodyForSignUp() {
+    public void sendAPIRequestToSignup() {
          userName=faker.name().firstName();
          userLastName=faker.name().lastName();
          userEmail=faker.internet().emailAddress();
          phoneNumber=faker.phoneNumber().cellPhone().replaceAll("[^0-9]","");
          userGender="MALE";
          userImage=null;
+         String fullName = userName + " " +userLastName;
 
 
 
         requestSpecification=given().header(APIConstants.Content_Type_Value,APIConstants.Header_Content_type)
                 .body(APIPayloadConstants.SignUp(userName,userLastName,userEmail,phoneNumber,password,userGender,userImage));
-    }
 
-    public void sendRequestForSignUp() {
         response=requestSpecification.post(APIConstants.signUp);
-    }
+        verifyPayloadLogin();
 
-    public void verifyPayloadSignUp(Integer status) {
-        System.out.println(response.body().prettyPrint());
-        response.then().assertThat().statusCode(status);
-        String verifyFirstNameOnResponse = response.body().jsonPath().getString("userFirstName");
-        Assert.assertEquals(userName,verifyFirstNameOnResponse);
-    }
-    public void setApiBodyForLogin() {
-        requestSpecification=given().header(APIConstants.Content_Type_Value,APIConstants.Header_Content_type).
-                body(APIPayloadConstants.Login(userEmail,password));
-    }
-    public void sendRequestForLogin() {
-        response=requestSpecification.post(APIConstants.login);
-    }
-    public void verifyPayloadLogin(Integer status) {
-        System.out.println(response.body().prettyPrint());
-        response.then().assertThat().statusCode(status);
-    }
+        userInformations.put("userName+LastName",fullName);
+        userInformations.put("userEmail",userEmail);
+        userInformations.put("phoneNumber",phoneNumber);
+        userInformations.put("userGender",userGender);
 
-    public void loginWithUI(){
-        accountPage.setLoginButtonOnHeader();
-        email.sendKeys(userEmail);
-        userPassword.sendKeys(password);
-        accountPage.setLoginButtonOnBottom();
-        Assert.assertEquals(loginPage.setAccountName(),userName);
+    }
+    public void verifyPayloadLogin() {
+        while(!(response.statusCode() ==201))
+        {
+            sendAPIRequestToSignup();
+        }
+        response.then().assertThat().statusCode(201);
     }
 
 }
