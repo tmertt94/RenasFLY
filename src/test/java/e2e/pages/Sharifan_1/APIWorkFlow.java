@@ -1,4 +1,4 @@
-package e2e.pages.Taylan_1;
+package e2e.pages.Sharifan_1;
 
 import com.github.javafaker.Faker;
 import e2e.utils.APIConstants;
@@ -6,9 +6,6 @@ import e2e.utils.APIPayloadConstants;
 import e2e.utils.CommonMethods;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import org.junit.Assert;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import java.util.HashMap;

@@ -1,6 +1,6 @@
 package e2e.stepDefinitions;
 
-import e2e.pages.Taylan_1.PageInitializer;
+import e2e.pages.Sharifan_1.PageInitializer;
 import e2e.utils.CommonMethods;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;

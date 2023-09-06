@@ -1,8 +1,4 @@
-package e2e.pages.Taylan_1;
-
-import e2e.pages.*;
-
-import java.util.Map;
+package e2e.pages.Sharifan_1;
 
 public class PageInitializer {
 
