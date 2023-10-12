@@ -1,4 +1,4 @@
-package e2e.pages.Sharifan_1;
+package e2e.pages.Taylan_1;
 
 import com.github.javafaker.Faker;
 import e2e.utils.APIConstants;

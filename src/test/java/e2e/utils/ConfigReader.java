@@ -4,8 +4,11 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Properties;
 
+
+
 public class ConfigReader {
 
+    //We created this because we need to read our Configuration.properties file
     static Properties properties;
 
     public static Properties readProperties(String filePath) {
@@ -24,3 +27,4 @@ public class ConfigReader {
         return properties.getProperty(key);
     }
 }
+

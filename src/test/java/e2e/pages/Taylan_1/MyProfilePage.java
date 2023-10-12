@@ -1,4 +1,4 @@
-package e2e.pages.Sharifan_1;
+package e2e.pages.Taylan_1;
 
 import com.github.javafaker.Faker;
 
@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import static e2e.pages.Sharifan_1.APIWorkFlow.userInformations;
+import static e2e.pages.Taylan_1.APIWorkFlow.userInformations;
 import static e2e.utils.CommonMethods.driver;
 
 public class MyProfilePage {
@@ -82,7 +82,7 @@ public class MyProfilePage {
     }
 
     public void logout()  {
-        logoutButton.click();
+//        logoutButton.click();
     }
 
 }

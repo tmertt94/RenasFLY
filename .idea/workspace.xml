@@ -5,8 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Login Form Fields and Error Handling 2023-10-14-42-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-09-23-31-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-18-04-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-19-26-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-21-41-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-14-34-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-14-37-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-14-37-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-14-38-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-14-42-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-18-07-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-18-07-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-18-12-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-18-23-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-19-07-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-20-51-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-20-54-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-20-55-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-21-37-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-21-42-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-22-47-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-22-57-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-22-57-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-21-39-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-19-25-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-19-30-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-20-25-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-21-45-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-21-48-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-21-51-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-21-55-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-22-07-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-22-09-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-22-21-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-22-22-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-22-48-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-22-50-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-23-04-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-23-07-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-23-10-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-23-13-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful Login and Redirection with UI 2023-10-23-15-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Successful SignUp and User Created message 2023-10-21-54-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-09-23-31-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-10-21-39-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-10-21-41-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Sharifan_47pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Sharifan_47/SignUpSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Sharifan_47.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/SignUp.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Sharifan_1/APIWorkFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/APIWorkFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Sharifan_1/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Sharifan_1/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Sharifan_1/MyProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/MyProfilePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Sharifan_1/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/PageInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/MyProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/MyProfilePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/Signup_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/Signup_API.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/APIConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/APIConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +115,11 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -55,16 +127,15 @@
       <recent name="e2e.pages.Taylan_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.APIRunner">
-    <configuration name="Scenario: Sign-Up with UI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Successful SignUp and User Created message">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Account.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Login.feature" />
       <option name="GLUE" value="e2e.stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="RenasFLY" />
-      <option name="NAME_FILTER" value="^Sign\-Up with UI$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sign\-Up with UI$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Sign-Up with UI" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -76,7 +147,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APIRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: Taylan_1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Taylan_1/Taylan_1.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLY" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Taylan_1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful SignUp and User Created message" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Sharifan_47.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLY" />
+      <option name="NAME_FILTER" value="^Successful SignUp and User Created message$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful SignUp and User Created message$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful SignUp and User Created message" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RenasFLY" />
       <extension name="coverage">
         <pattern>
@@ -85,13 +195,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.APIRunner" />
+      <option name="MAIN_CLASS_NAME" value="e2e.runner.Runner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RunnerClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RenasFLY" />
       <extension name="coverage">
         <pattern>
@@ -100,7 +210,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClass" />
+      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClassTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,9 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.APIRunner" />
-        <item itemvalue="JUnit.RunnerClass" />
-        <item itemvalue="Cucumber Java.Scenario: Sign-Up with UI" />
+        <item itemvalue="Cucumber Java.Scenario: Successful SignUp and User Created message" />
+        <item itemvalue="JUnit.RunnerClassTest" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Feature: Taylan_1" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
       </list>
     </recent_temporary>
   </component>
@@ -180,5 +292,15 @@
     <MESSAGE value="3rd commit" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,6 +1,6 @@
 package e2e.stepDefinitions.Taylan_1;
 
-import e2e.pages.Sharifan_1.PageInitializer;
+import e2e.pages.Taylan_1.PageInitializer;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
