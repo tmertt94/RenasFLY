@@ -1,5 +1,7 @@
 package e2e.utils;
 
+
+
 import e2e.pages.Taylan_1.PageInitializer;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
@@ -15,7 +17,6 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class CommonMethods extends PageInitializer {
-
     public static WebDriver driver;
 
     public static void openAndLunchApplication() {
@@ -44,10 +45,11 @@ public class CommonMethods extends PageInitializer {
     public static void closeBrowser() {
         driver.quit();
     }
+
     public static String getTimeStamp(String pattern) {
         Date date = new Date();
 
-        SimpleDateFormat simpleDateFormat= new SimpleDateFormat(pattern);
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(pattern);
 
         return simpleDateFormat.format(date);
     }
@@ -55,16 +57,17 @@ public class CommonMethods extends PageInitializer {
     public static byte[] takeScreenShots(String fileName) {
         TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 
-        byte[] picBytes= takesScreenshot.getScreenshotAs(OutputType.BYTES);
+        byte[] picBytes = takesScreenshot.getScreenshotAs(OutputType.BYTES);
         File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
 
         try {
             FileUtils.copyFile(sourceFile, new File(Constants.ScreenShot_FilePath + fileName + " " +
                     getTimeStamp("yyyy-MM-HH-mm-ss") + ".png"));
-        }catch (Exception e) {
+        } catch (Exception e) {
             throw new RuntimeException(e);
         }
-       return picBytes;
+        return picBytes;
 
     }
 }
+

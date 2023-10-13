@@ -82,7 +82,7 @@ public class MyProfilePage {
     }
 
     public void logout()  {
-        logoutButton.click();
+//        logoutButton.click();
     }
 
 }

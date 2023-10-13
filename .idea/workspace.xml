@@ -5,38 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-08-17-40-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-08-17-40-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/APIWorkFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/MyProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/PageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/MyProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Taylan_1/Signup_API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/Taylan_1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-00-46-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-00-47-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful Login and Redirection with UI 2023-10-00-48-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-03-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-05-35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-07-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-09-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-10-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-12-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-27-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-00-45-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-23-31-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-23-33-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-23-36-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-23-37-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-23-43-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Successful SignUp and User Created message 2023-10-23-57-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Sharifan_47pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Sharifan_47/LoginSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/APIWorkFlow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/AccountPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/DataBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/APIRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_Login_API.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp_API.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp_DataBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/PageInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/DBUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/Sharifan_47pages/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/Sharifan_47pages/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Sharifan_47/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Sharifan_47/SignUpSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Sharifan_47.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/SignUp.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/SignUp.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,34 +62,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-support/4.10.0/selenium-support-4.10.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="e2e.pages.Taylan_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.APIRunner">
-    <configuration name="Scenario: Sign-Up with UI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Runner">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Account.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Login.feature" />
       <option name="GLUE" value="e2e.stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="RenasFLY" />
-      <option name="NAME_FILTER" value="^Sign\-Up with UI$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sign\-Up with UI$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Sign-Up with UI" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -106,7 +105,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APIRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Successful SignUp and User Created message (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/SignUp.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLY" />
+      <option name="NAME_FILTER" value="^Successful SignUp and User Created message$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful SignUp and User Created message$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful SignUp and User Created message" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful SignUp and User Created message" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features.Sharifan_47/Sharifan_47.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLY" />
+      <option name="NAME_FILTER" value="^Successful SignUp and User Created message$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful SignUp and User Created message$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful SignUp and User Created message" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RenasFLY" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +154,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.APIRunner" />
+      <option name="MAIN_CLASS_NAME" value="e2e.runner.Runner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RunnerClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RenasFLY" />
       <extension name="coverage">
         <pattern>
@@ -130,17 +169,30 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClass" />
+      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClassTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.APIRunner" />
-        <item itemvalue="JUnit.RunnerClass" />
-        <item itemvalue="Cucumber Java.Scenario: Sign-Up with UI" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="JUnit.RunnerClassTest" />
+        <item itemvalue="Cucumber Java.Scenario: Successful SignUp and User Created message" />
+        <item itemvalue="Cucumber Java.Scenario: Successful SignUp and User Created message (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,5 +251,15 @@
     <MESSAGE value="3rd commit" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
