@@ -1,6 +1,11 @@
 Feature:  Login functionality
 
-
+  @Smoke2
+  Scenario: Successful Login and Redirection with UI
+    Given the user is on the Login page
+    When the user enters valid email address and password
+    And the user clicks on Login button
+    Then the user should be redirected to the Search Flight page
 
   #Scenario: Login Form Fields and Error Handling
    # Given the user is on the Login page

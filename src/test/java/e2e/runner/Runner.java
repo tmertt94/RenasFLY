@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         //We need to copy path from content root
         glue = "e2e/stepDefinitions", //This is to connect steps with runner class
         //We need to copy path from source root
-        tags= "@Regression_1",
+        tags= "@Smoke1,@Smoke2",
         dryRun = false, //This is to get undefined steps without opening up browser
         plugin={
                 "pretty", //This is to have more understandable console logs.
